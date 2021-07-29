@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.top {
+    height: 75px;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 98.04%;
+    background: #222222;
+}
+.container {
+    width: 1600px;
+    height: 764px;
+    left: 0%;
+    right: 0%;
+    top: 1.96%;
+    bottom: 78.08%;
+    background: #F1E4E6;
+    display: flex;
+}
+.preview {
+    width: 800px;
+    height: 764px;
+}
+.brend {
+width: 800px;
+height: 382px;
+display: flex;
+align-items: flex-end;
+}
